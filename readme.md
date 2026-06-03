@@ -35,28 +35,6 @@ webapp-express/
 └── server.js        # Entry point dell'applicazione
 ```
 
-## Installazione
-
-Clonare il repository:
-
-```bash
-git clone https://github.com/DiegoFatVega/webapp-express.git
-```
-
-Installare le dipendenze:
-
-```bash
-npm install
-```
-
-Avviare il server:
-
-```bash
-npm run dev
-```
-
----
-
 ## Funzionalità
 
 - Gestione routing Express
@@ -76,5 +54,27 @@ Durante lo sviluppo del progetto ho approfondito:
 - debugging server-side
 - gestione middleware Express
 - separazione delle responsabilità nel codice
+
+---
+
+## Installazione
+
+Clonare il repository:
+
+```bash
+git clone https://github.com/DiegoFatVega/webapp-express.git
+```
+
+Installare le dipendenze:
+
+```bash
+npm install
+```
+
+Avviare il server:
+
+```bash
+npm run dev
+```
 
 ---
